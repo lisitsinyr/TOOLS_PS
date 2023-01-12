@@ -1,0 +1,66 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1CACA185-7EBE-40BF-86A1-DD26EC597DEC/f:ROOT.CIMV2.Win32_NetworkAdapter.cs" caret="27" scrollPosition="0|0" />
+      <File id="1CACA185-7EBE-40BF-86A1-DD26EC597DEC/f:Program.cs" caret="158" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1CACA185-7EBE-40BF-86A1-DD26EC597DEC/f:Program.cs" caret="167" scrollPosition="0|0" />
+      <File id="1CACA185-7EBE-40BF-86A1-DD26EC597DEC/f:Program.cs" caret="13" scrollPosition="0|0" />
+      <File id="1CACA185-7EBE-40BF-86A1-DD26EC597DEC/f:Program.cs" caret="115" scrollPosition="0|0" />
+      <File id="1CACA185-7EBE-40BF-86A1-DD26EC597DEC/f:Program.cs" caret="518" scrollPosition="0|0" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@demo1.ROOT.CIMV2.NetworkAdapter">
+      <Item value="GetInstances" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="Console" priority="1" />
+      <Item value="s" priority="1" />
+      <Item value="LogicalDisk" priority="3" />
+      <Item value="using" priority="0" />
+      <Item value="delegate" priority="0" />
+      <Item value="public" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="NetworkAdapter" priority="1" />
+      <Item value="na" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:demo1.ROOT.CIMV2.NetworkAdapter">
+      <Item value="MACAddress" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:demo1.ROOT.CIMV2.LogicalDisk">
+      <Item value="FreeSpace" priority="1" />
+      <Item value="FileSystem" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

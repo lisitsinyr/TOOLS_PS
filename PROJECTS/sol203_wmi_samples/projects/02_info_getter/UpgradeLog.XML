@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="wmi.net2">
+</Property><Property Name="Solution File" Value="D:\users\mbakirov\unetug\2006_09_15_wmi\projects\02_info_getter\WMI\wmi.net2.sln">
+</Property><Property Name="Date" Value="14 сентября 2006 г.">
+</Property><Property Name="Time" Value="0:39">
+</Property></Properties><Event ErrorLevel="0" Project="WMI.NET2" Source="WMI.NET2.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WMI.NET2" Source="WMI.NET2.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="wmi.net2.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="wmi.net2.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WMI.NET2" Source="WMI.NET2.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

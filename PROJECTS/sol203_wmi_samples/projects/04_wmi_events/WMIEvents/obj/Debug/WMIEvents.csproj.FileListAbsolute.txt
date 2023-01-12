@@ -1,0 +1,23 @@
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\old\projects\04_wmi_events\WMIEvents\obj\Debug\WMIEvents.exe
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\old\projects\04_wmi_events\WMIEvents\obj\Debug\WMIEvents.pdb
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\old\projects\04_wmi_events\WMIEvents\bin\Debug\WMIEvents.exe
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\old\projects\04_wmi_events\WMIEvents\bin\Debug\WMIEvents.pdb
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\old\projects\04_wmi_events\WMIEvents\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\old\projects\04_wmi_events\WMIEvents\obj\Debug\WMIEvents.Form1.resources
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\old\projects\04_wmi_events\WMIEvents\obj\Debug\WMIEvents.csproj.GenerateResource.Cache
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\projects\04_wmi_events\WMIEvents\obj\Debug\WMIEvents.exe
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\projects\04_wmi_events\WMIEvents\obj\Debug\WMIEvents.pdb
+C:\2008_04_10_wmi_webcast\projects\04_wmi_events\WMIEvents\obj\Debug\WMIEvents.exe
+C:\2008_04_10_wmi_webcast\projects\04_wmi_events\WMIEvents\obj\Debug\WMIEvents.pdb
+C:\2008_04_10_wmi_webcast\projects\04_wmi_events\WMIEvents\bin\Debug\WMIEvents.exe
+C:\2008_04_10_wmi_webcast\projects\04_wmi_events\WMIEvents\bin\Debug\WMIEvents.pdb
+C:\2008_04_10_wmi_webcast\projects\04_wmi_events\WMIEvents\obj\Debug\ResolveAssemblyReference.cache
+C:\2008_04_10_wmi_webcast\projects\04_wmi_events\WMIEvents\obj\Debug\WMIEvents.Form1.resources
+C:\2008_04_10_wmi_webcast\projects\04_wmi_events\WMIEvents\obj\Debug\WMIEvents.csproj.GenerateResource.Cache
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\04_wmi_events\WMIEvents\obj\Debug\WMIEvents.exe
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\04_wmi_events\WMIEvents\obj\Debug\WMIEvents.pdb
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\04_wmi_events\WMIEvents\bin\Debug\WMIEvents.exe
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\04_wmi_events\WMIEvents\bin\Debug\WMIEvents.pdb
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\04_wmi_events\WMIEvents\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\04_wmi_events\WMIEvents\obj\Debug\WMIEvents.Form1.resources
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\04_wmi_events\WMIEvents\obj\Debug\WMIEvents.csproj.GenerateResource.Cache

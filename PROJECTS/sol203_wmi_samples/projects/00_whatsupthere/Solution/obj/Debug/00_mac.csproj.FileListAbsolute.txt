@@ -1,0 +1,12 @@
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\projects\00_whatsupthere\Solution\bin\Debug\00_mac.exe
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\projects\00_whatsupthere\Solution\bin\Debug\00_mac.pdb
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\projects\00_whatsupthere\Solution\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\projects\00_whatsupthere\Solution\obj\Debug\00_mac.exe
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\projects\00_whatsupthere\Solution\obj\Debug\00_mac.pdb
+C:\2008_04_10_wmi_webcast\projects\00_whatsupthere\Solution\obj\Debug\00_mac.exe
+C:\2008_04_10_wmi_webcast\projects\00_whatsupthere\Solution\obj\Debug\00_mac.pdb
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\00_whatsupthere\Solution\obj\Debug\00_mac.exe
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\00_whatsupthere\Solution\obj\Debug\00_mac.pdb
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\00_whatsupthere\Solution\bin\Debug\00_mac.exe
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\00_whatsupthere\Solution\bin\Debug\00_mac.pdb
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\00_whatsupthere\Solution\obj\Debug\ResolveAssemblyReference.cache

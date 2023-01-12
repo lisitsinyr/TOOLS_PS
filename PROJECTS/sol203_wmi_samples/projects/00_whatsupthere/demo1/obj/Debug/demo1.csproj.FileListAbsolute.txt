@@ -1,0 +1,5 @@
+C:\DEVYYYWMI\projects\00_whatsupthere\demo1\bin\Debug\demo1.exe
+C:\DEVYYYWMI\projects\00_whatsupthere\demo1\bin\Debug\demo1.pdb
+C:\DEVYYYWMI\projects\00_whatsupthere\demo1\obj\Debug\ResolveAssemblyReference.cache
+C:\DEVYYYWMI\projects\00_whatsupthere\demo1\obj\Debug\demo1.exe
+C:\DEVYYYWMI\projects\00_whatsupthere\demo1\obj\Debug\demo1.pdb

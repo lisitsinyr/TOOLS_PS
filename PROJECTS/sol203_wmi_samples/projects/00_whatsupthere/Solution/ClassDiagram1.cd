@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="_0_mac.ROOT.CIMV2.NetworkAdapter">
+    <Position X="1.25" Y="0.5" Width="4" />
+    <TypeIdentifier>
+      <FileName>ROOT.CIMV2.Win32_NetworkAdapter.cs</FileName>
+      <HashCode>EJkUZAEkAEEsFbIACAolYQZDTIEAMM+AGw8kkERdhCI=</HashCode>
+    </TypeIdentifier>
+    <Members>
+      <Property Name="AdapterType" Hidden="true" />
+      <Property Name="AdapterTypeId" Hidden="true" />
+      <Property Name="AutoSense" Hidden="true" />
+      <Property Name="Availability" Hidden="true" />
+      <Property Name="Caption" Hidden="true" />
+      <Method Name="CheckIfProperClass" Hidden="true" />
+      <Property Name="ConfigManagerErrorCode" Hidden="true" />
+      <Property Name="ConfigManagerUserConfig" Hidden="true" />
+      <Method Name="ConstructPath" Hidden="true" />
+      <Property Name="Description" Hidden="true" />
+      <Property Name="DeviceID" Hidden="true" />
+      <Property Name="ErrorCleared" Hidden="true" />
+      <Property Name="ErrorDescription" Hidden="true" />
+      <Property Name="Index" Hidden="true" />
+      <Method Name="Initialize" Hidden="true" />
+      <Method Name="InitializeObject" Hidden="true" />
+      <Property Name="InstallDate" Hidden="true" />
+      <Property Name="Installed" Hidden="true" />
+      <Property Name="IsAdapterTypeIdNull" Hidden="true" />
+      <Property Name="IsAutoSenseNull" Hidden="true" />
+      <Property Name="IsAvailabilityNull" Hidden="true" />
+      <Property Name="IsConfigManagerErrorCodeNull" Hidden="true" />
+      <Property Name="IsConfigManagerUserConfigNull" Hidden="true" />
+      <Property Name="IsErrorClearedNull" Hidden="true" />
+      <Property Name="IsIndexNull" Hidden="true" />
+      <Property Name="IsInstallDateNull" Hidden="true" />
+      <Property Name="IsInstalledNull" Hidden="true" />
+      <Property Name="IsLastErrorCodeNull" Hidden="true" />
+      <Property Name="IsMaxNumberControlledNull" Hidden="true" />
+      <Property Name="IsMaxSpeedNull" Hidden="true" />
+      <Property Name="IsNetConnectionStatusNull" Hidden="true" />
+      <Property Name="IsPowerManagementSupportedNull" Hidden="true" />
+      <Property Name="IsStatusInfoNull" Hidden="true" />
+      <Property Name="IsTimeOfLastResetNull" Hidden="true" />
+      <Property Name="LastErrorCode" Hidden="true" />
+      <Property Name="LateBoundObject" Hidden="true" />
+      <Property Name="MaxNumberControlled" Hidden="true" />
+      <Property Name="MaxSpeed" Hidden="true" />
+      <Property Name="Name" Hidden="true" />
+      <Property Name="NetConnectionID" Hidden="true" />
+      <Method Name="NetworkAdapter" Hidden="true" />
+      <Property Name="OriginatingNamespace" Hidden="true" />
+      <Property Name="Path" Hidden="true" />
+      <Property Name="PermanentAddress" Hidden="true" />
+      <Property Name="PNPDeviceID" Hidden="true" />
+      <Property Name="PowerManagementCapabilities" Hidden="true" />
+      <Property Name="PowerManagementSupported" Hidden="true" />
+      <Property Name="ProductName" Hidden="true" />
+      <Property Name="Scope" Hidden="true" />
+      <Property Name="ServiceName" Hidden="true" />
+      <Method Name="ShouldSerializeAdapterTypeId" Hidden="true" />
+      <Method Name="ShouldSerializeAutoSense" Hidden="true" />
+      <Method Name="ShouldSerializeAvailability" Hidden="true" />
+      <Method Name="ShouldSerializeConfigManagerErrorCode" Hidden="true" />
+      <Method Name="ShouldSerializeConfigManagerUserConfig" Hidden="true" />
+      <Method Name="ShouldSerializeErrorCleared" Hidden="true" />
+      <Method Name="ShouldSerializeIndex" Hidden="true" />
+      <Method Name="ShouldSerializeInstallDate" Hidden="true" />
+      <Method Name="ShouldSerializeInstalled" Hidden="true" />
+      <Method Name="ShouldSerializeLastErrorCode" Hidden="true" />
+      <Method Name="ShouldSerializeMaxNumberControlled" Hidden="true" />
+      <Method Name="ShouldSerializeMaxSpeed" Hidden="true" />
+      <Method Name="ShouldSerializeNetConnectionStatus" Hidden="true" />
+      <Method Name="ShouldSerializePowerManagementSupported" Hidden="true" />
+      <Method Name="ShouldSerializeSpeed" Hidden="true" />
+      <Method Name="ShouldSerializeStatusInfo" Hidden="true" />
+      <Method Name="ShouldSerializeTimeOfLastReset" Hidden="true" />
+      <Property Name="Status" Hidden="true" />
+      <Property Name="StatusInfo" Hidden="true" />
+      <Property Name="SystemCreationClassName" Hidden="true" />
+      <Property Name="SystemName" Hidden="true" />
+      <Property Name="TimeOfLastReset" Hidden="true" />
+      <Method Name="ToDateTime" Hidden="true" />
+      <Method Name="ToDmtfDateTime" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="_0_mac.ROOT.CIMV2.NetworkAdapter.AdapterTypeIdValues" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ROOT.CIMV2.Win32_NetworkAdapter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="_0_mac.ROOT.CIMV2.NetworkAdapter.PowerManagementCapabilitiesValues" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ROOT.CIMV2.Win32_NetworkAdapter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="_0_mac.ROOT.CIMV2.NetworkAdapter.ManagementSystemProperties" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ROOT.CIMV2.Win32_NetworkAdapter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Enum Name="_0_mac.ROOT.CIMV2.NetworkAdapter.StatusInfoValues" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ROOT.CIMV2.Win32_NetworkAdapter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="_0_mac.ROOT.CIMV2.NetworkAdapter.NetworkAdapterCollection" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ROOT.CIMV2.Win32_NetworkAdapter.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="_0_mac.ROOT.CIMV2.NetworkAdapter.WMIValueTypeConverter" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ROOT.CIMV2.Win32_NetworkAdapter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Enum Name="_0_mac.ROOT.CIMV2.NetworkAdapter.NetConnectionStatusValues" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ROOT.CIMV2.Win32_NetworkAdapter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="_0_mac.ROOT.CIMV2.NetworkAdapter.ConfigManagerErrorCodeValues" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ROOT.CIMV2.Win32_NetworkAdapter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="_0_mac.ROOT.CIMV2.NetworkAdapter.AvailabilityValues" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ROOT.CIMV2.Win32_NetworkAdapter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+  </Class>
+</ClassDiagram>

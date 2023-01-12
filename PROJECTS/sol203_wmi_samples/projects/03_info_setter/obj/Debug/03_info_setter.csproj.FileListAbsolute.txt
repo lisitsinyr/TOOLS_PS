@@ -1,0 +1,20 @@
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\old\projects\03_info_setter\bin\Debug\03_info_setter.exe
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\old\projects\03_info_setter\bin\Debug\03_info_setter.pdb
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\old\projects\03_info_setter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\old\projects\03_info_setter\obj\Debug\03_info_setter.exe
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\old\projects\03_info_setter\obj\Debug\03_info_setter.pdb
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\projects\03_info_setter\obj\Debug\03_info_setter.exe
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\projects\03_info_setter\obj\Debug\03_info_setter.pdb
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\projects\03_info_setter\bin\Debug\03_info_setter.exe
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\projects\03_info_setter\bin\Debug\03_info_setter.pdb
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\projects\03_info_setter\obj\Debug\ResolveAssemblyReference.cache
+C:\2008_04_10_wmi_webcast\projects\03_info_setter\obj\Debug\03_info_setter.exe
+C:\2008_04_10_wmi_webcast\projects\03_info_setter\obj\Debug\03_info_setter.pdb
+C:\2008_04_10_wmi_webcast\projects\03_info_setter\bin\Debug\03_info_setter.exe
+C:\2008_04_10_wmi_webcast\projects\03_info_setter\bin\Debug\03_info_setter.pdb
+C:\2008_04_10_wmi_webcast\projects\03_info_setter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\03_info_setter\obj\Debug\03_info_setter.exe
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\03_info_setter\obj\Debug\03_info_setter.pdb
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\03_info_setter\bin\Debug\03_info_setter.exe
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\03_info_setter\bin\Debug\03_info_setter.pdb
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\03_info_setter\obj\Debug\ResolveAssemblyReference.cache

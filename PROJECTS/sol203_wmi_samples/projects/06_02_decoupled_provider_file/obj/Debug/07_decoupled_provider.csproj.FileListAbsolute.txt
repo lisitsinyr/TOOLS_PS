@@ -1,0 +1,14 @@
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\projects\07_decoupled_provider\bin\Debug\07_decoupled_provider.exe
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\projects\07_decoupled_provider\bin\Debug\07_decoupled_provider.pdb
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\projects\07_decoupled_provider\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\projects\07_decoupled_provider\obj\Debug\_07_decoupled_provider.Properties.Resources.resources
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\projects\07_decoupled_provider\obj\Debug\07_decoupled_provider.csproj.GenerateResource.Cache
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\projects\07_decoupled_provider\obj\Debug\07_decoupled_provider.exe
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\projects\07_decoupled_provider\obj\Debug\07_decoupled_provider.pdb
+C:\2008_04_10_wmi_webcast\projects\07_decoupled_provider\obj\Debug\07_decoupled_provider.exe
+C:\2008_04_10_wmi_webcast\projects\07_decoupled_provider\obj\Debug\07_decoupled_provider.pdb
+C:\2008_04_10_wmi_webcast\projects\07_decoupled_provider\bin\Debug\07_decoupled_provider.exe
+C:\2008_04_10_wmi_webcast\projects\07_decoupled_provider\bin\Debug\07_decoupled_provider.pdb
+C:\2008_04_10_wmi_webcast\projects\07_decoupled_provider\obj\Debug\ResolveAssemblyReference.cache
+C:\2008_04_10_wmi_webcast\projects\07_decoupled_provider\obj\Debug\_07_decoupled_provider.Properties.Resources.resources
+C:\2008_04_10_wmi_webcast\projects\07_decoupled_provider\obj\Debug\07_decoupled_provider.csproj.GenerateResource.Cache

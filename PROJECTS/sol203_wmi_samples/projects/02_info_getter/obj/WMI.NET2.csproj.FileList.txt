@@ -1,0 +1,10 @@
+bin\Debug\WMI.NET.Test.exe.config
+bin\Debug\WMI.NET.Test.exe
+bin\Debug\WMI.NET.Test.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WMI.NET.ClassesListForm.resources
+obj\Debug\WMI.NET.MainForm.resources
+obj\Debug\WMI.NET.MainFormConnectDialog.resources
+obj\Debug\WMI.NET2.csproj.GenerateResource.Cache
+obj\Debug\WMI.NET.Test.exe
+obj\Debug\WMI.NET.Test.pdb

@@ -1,0 +1,377 @@
+﻿Installing assembly 'C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+**** WMI schema install start ****
+**** WMI schema install start ****
+**** WMI schema install end ****
+Committing assembly 'C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+Microsoft (R) MOF Compiler Version 6.0.6000.16386
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\07_decoupled_provider_v2.0.50727.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+Uninstalling assembly 'C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+Microsoft (R) MOF Compiler Version 6.0.6000.16386
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Users\i-maratb\AppData\Local\Temp\tmpCCB7.tmp
+MOF file has been successfully parsed
+Storing data in the repository...
+WARNING: File C:\Users\i-maratb\AppData\Local\Temp\tmpCCB7.tmp does not contain #PRAGMA AUTORECOVER.
+If the WMI repository is rebuilt in the future, the contents of this MOF file will not be included in the new WMI repository.
+To include this MOF file when the WMI Repository is automatically reconstructed, place the #PRAGMA AUTORECOVER statement on the first line of the MOF file.
+Done!
+
+
+Installing assembly 'C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+**** WMI schema install start ****
+**** WMI schema install start ****
+**** WMI schema install end ****
+Committing assembly 'C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+Microsoft (R) MOF Compiler Version 6.0.6000.16386
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\07_decoupled_provider_v2.0.50727.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+Uninstalling assembly 'C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+Microsoft (R) MOF Compiler Version 6.0.6000.16386
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Users\i-maratb\AppData\Local\Temp\tmp6FE8.tmp
+MOF file has been successfully parsed
+Storing data in the repository...
+WARNING: File C:\Users\i-maratb\AppData\Local\Temp\tmp6FE8.tmp does not contain #PRAGMA AUTORECOVER.
+If the WMI repository is rebuilt in the future, the contents of this MOF file will not be included in the new WMI repository.
+To include this MOF file when the WMI Repository is automatically reconstructed, place the #PRAGMA AUTORECOVER statement on the first line of the MOF file.
+Done!
+
+
+Installing assembly 'C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+**** WMI schema install start ****
+**** WMI schema install start ****
+**** WMI schema install end ****
+Committing assembly 'C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+Microsoft (R) MOF Compiler Version 6.0.6000.16386
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\07_decoupled_provider_v2.0.50727.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+Uninstalling assembly 'C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+Microsoft (R) MOF Compiler Version 6.0.6000.16386
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Users\i-maratb\AppData\Local\Temp\tmpC345.tmp
+MOF file has been successfully parsed
+Storing data in the repository...
+WARNING: File C:\Users\i-maratb\AppData\Local\Temp\tmpC345.tmp does not contain #PRAGMA AUTORECOVER.
+If the WMI repository is rebuilt in the future, the contents of this MOF file will not be included in the new WMI repository.
+To include this MOF file when the WMI Repository is automatically reconstructed, place the #PRAGMA AUTORECOVER statement on the first line of the MOF file.
+Done!
+
+
+Uninstalling assembly 'C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+An exception occurred during the uninstallation of the System.Management.Instrumentation.WMIManagementInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+**** WMI schema install start ****
+Rolling back assembly 'c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+Microsoft (R) MOF Compiler Version 6.0.6000.16386
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+File '' not found!
+
+
+An exception occurred during the Rollback phase of the System.Management.Instrumentation.WMIManagementInstaller installer.
+System.ArgumentNullException: Value cannot be null.
+Parameter name: path
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+**** WMI schema install start ****
+**** WMI schema install start ****
+**** WMI schema install end ****
+Committing assembly 'c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+Microsoft (R) MOF Compiler Version 6.0.6000.16386
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\07_decoupled_provider_v2.0.50727.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+Uninstalling assembly 'c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+Microsoft (R) MOF Compiler Version 6.0.6000.16386
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Users\i-maratb\AppData\Local\Temp\tmpB264.tmp
+MOF file has been successfully parsed
+Storing data in the repository...
+WARNING: File C:\Users\i-maratb\AppData\Local\Temp\tmpB264.tmp does not contain #PRAGMA AUTORECOVER.
+If the WMI repository is rebuilt in the future, the contents of this MOF file will not be included in the new WMI repository.
+To include this MOF file when the WMI Repository is automatically reconstructed, place the #PRAGMA AUTORECOVER statement on the first line of the MOF file.
+Done!
+
+
+Uninstalling assembly 'c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+An exception occurred during the uninstallation of the System.Management.Instrumentation.WMIManagementInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+**** WMI schema install start ****
+**** WMI schema install start ****
+**** WMI schema install end ****
+Committing assembly 'c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+Microsoft (R) MOF Compiler Version 6.0.6000.16386
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\07_decoupled_provider_v2.0.50727.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+Uninstalling assembly 'c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+Microsoft (R) MOF Compiler Version 6.0.6000.16386
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Users\i-maratb\AppData\Local\Temp\tmp8.tmp
+MOF file has been successfully parsed
+Storing data in the repository...
+WARNING: File C:\Users\i-maratb\AppData\Local\Temp\tmp8.tmp does not contain #PRAGMA AUTORECOVER.
+If the WMI repository is rebuilt in the future, the contents of this MOF file will not be included in the new WMI repository.
+To include this MOF file when the WMI Repository is automatically reconstructed, place the #PRAGMA AUTORECOVER statement on the first line of the MOF file.
+Done!
+
+
+Installing assembly 'C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   i = 
+   logfile = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+**** WMI schema install start ****
+**** WMI schema install start ****
+**** WMI schema install end ****
+Committing assembly 'C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   i = 
+   logfile = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+Microsoft (R) MOF Compiler Version 6.0.6000.16386
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\07_decoupled_provider_v2.0.50727.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+Uninstalling assembly 'C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+Microsoft (R) MOF Compiler Version 6.0.6000.16386
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Users\i-maratb\AppData\Local\Temp\tmpAD9F.tmp
+MOF file has been successfully parsed
+Storing data in the repository...
+WARNING: File C:\Users\i-maratb\AppData\Local\Temp\tmpAD9F.tmp does not contain #PRAGMA AUTORECOVER.
+If the WMI repository is rebuilt in the future, the contents of this MOF file will not be included in the new WMI repository.
+To include this MOF file when the WMI Repository is automatically reconstructed, place the #PRAGMA AUTORECOVER statement on the first line of the MOF file.
+Done!
+
+
+Installing assembly 'C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   i = 
+   logfile = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+**** WMI schema install start ****
+**** WMI schema install start ****
+**** WMI schema install end ****
+Committing assembly 'C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   i = 
+   logfile = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+Microsoft (R) MOF Compiler Version 6.0.6000.16386
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\07_decoupled_provider_v2.0.50727.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+Uninstalling assembly 'C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+Microsoft (R) MOF Compiler Version 6.0.6000.16386
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Users\i-maratb\AppData\Local\Temp\tmpE9C5.tmp
+MOF file has been successfully parsed
+Storing data in the repository...
+WARNING: File C:\Users\i-maratb\AppData\Local\Temp\tmpE9C5.tmp does not contain #PRAGMA AUTORECOVER.
+If the WMI repository is rebuilt in the future, the contents of this MOF file will not be included in the new WMI repository.
+To include this MOF file when the WMI Repository is automatically reconstructed, place the #PRAGMA AUTORECOVER statement on the first line of the MOF file.
+Done!
+
+
+Installing assembly 'C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   i = 
+   logfile = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+**** WMI schema install start ****
+**** WMI schema install start ****
+**** WMI schema install end ****
+Committing assembly 'C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   i = 
+   logfile = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+Microsoft (R) MOF Compiler Version 6.0.6000.16386
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\07_decoupled_provider_v2.0.50727.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+Uninstalling assembly 'C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+Microsoft (R) MOF Compiler Version 6.0.6000.16386
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Users\i-maratb\AppData\Local\Temp\tmp60BD.tmp
+MOF file has been successfully parsed
+Storing data in the repository...
+WARNING: File C:\Users\i-maratb\AppData\Local\Temp\tmp60BD.tmp does not contain #PRAGMA AUTORECOVER.
+If the WMI repository is rebuilt in the future, the contents of this MOF file will not be included in the new WMI repository.
+To include this MOF file when the WMI Repository is automatically reconstructed, place the #PRAGMA AUTORECOVER statement on the first line of the MOF file.
+Done!
+
+
+Installing assembly 'C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   i = 
+   logfile = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+**** WMI schema install start ****
+**** WMI schema install start ****
+**** WMI schema install end ****
+Committing assembly 'C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   i = 
+   logfile = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+Microsoft (R) MOF Compiler Version 6.0.6000.16386
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Windows\system32\wbem\07_decoupled_provider_v2.0.50727.mof
+MOF file has been successfully parsed
+Storing data in the repository...
+Done!
+
+
+Uninstalling assembly 'C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+   logfile = C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog
+Microsoft (R) MOF Compiler Version 6.0.6000.16386
+Copyright (c) Microsoft Corp. 1997-2006. All rights reserved.
+Parsing MOF file: C:\Users\i-maratb\AppData\Local\Temp\tmp5D06.tmp
+MOF file has been successfully parsed
+Storing data in the repository...
+WARNING: File C:\Users\i-maratb\AppData\Local\Temp\tmp5D06.tmp does not contain #PRAGMA AUTORECOVER.
+If the WMI repository is rebuilt in the future, the contents of this MOF file will not be included in the new WMI repository.
+To include this MOF file when the WMI Repository is automatically reconstructed, place the #PRAGMA AUTORECOVER statement on the first line of the MOF file.
+Done!
+
+

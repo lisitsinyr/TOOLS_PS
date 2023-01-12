@@ -1,0 +1,5 @@
+bin\Debug\05_providing_classes.exe
+bin\Debug\05_providing_classes.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\05_providing_classes.exe
+obj\Debug\05_providing_classes.pdb

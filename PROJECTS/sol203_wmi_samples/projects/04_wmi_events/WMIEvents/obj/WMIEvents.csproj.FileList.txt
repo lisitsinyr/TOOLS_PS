@@ -1,0 +1,7 @@
+bin\Debug\WMIEvents.exe
+bin\Debug\WMIEvents.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WMIEvents.Form1.resources
+obj\Debug\WMIEvents.csproj.GenerateResource.Cache
+obj\Debug\WMIEvents.exe
+obj\Debug\WMIEvents.pdb

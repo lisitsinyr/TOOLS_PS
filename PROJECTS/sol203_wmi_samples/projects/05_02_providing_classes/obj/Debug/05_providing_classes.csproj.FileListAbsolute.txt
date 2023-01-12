@@ -1,0 +1,7 @@
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\old\projects\05_02_providing_classes\obj\Debug\05_providing_classes.exe
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\old\projects\05_02_providing_classes\obj\Debug\05_providing_classes.pdb
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\old\projects\05_02_providing_classes\bin\Debug\05_providing_classes.exe
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\old\projects\05_02_providing_classes\bin\Debug\05_providing_classes.pdb
+C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\old\projects\05_02_providing_classes\obj\Debug\ResolveAssemblyReference.cache
+C:\2008_04_10_wmi_webcast\projects\05_02_providing_classes\obj\Debug\05_providing_classes.exe
+C:\2008_04_10_wmi_webcast\projects\05_02_providing_classes\obj\Debug\05_providing_classes.pdb

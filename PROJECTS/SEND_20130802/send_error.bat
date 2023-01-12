@@ -1,0 +1,1 @@
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -command & K:\TOOLS\UDF\SEND\send.ps1 mail.ulnsk.cbr.ru services@ulnsk.cbr.ru '73lisitsynyr@cbr.ru' 'Тест; Получены файлы в тестовом режиме' 'Вам пришло сообщение из БАНКОМ по форме UUPROBA. Файл 201312041030_3_875_3.DOS'

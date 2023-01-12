@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="00_mac">
+</Property><Property Name="Solution File" Value="C:\Users\i-maratb\Documents\presentations\2008_02_29_wmi_piter\old\projects\00_whatsupthere\Solution\00_mac.sln">
+</Property><Property Name="Date" Value="26 февраля 2008 г.">
+</Property><Property Name="Time" Value="13:34">
+</Property></Properties><Event ErrorLevel="0" Project="00_mac" Source="00_mac.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="00_mac" Source="00_mac.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="00_mac.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="00_mac.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="00_mac" Source="00_mac.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

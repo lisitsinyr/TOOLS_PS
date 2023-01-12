@@ -1,0 +1,9 @@
+SELECT * FROM __InstanceCreationEvent WITHIN 60 WHERE TargetInstance ISA "Win32_LogicalDisk"
+
+Select * from __InstanceCreationEvent Where TargetInstance ISA 'Win32_NTLogEvent'
+
+visual studio - look for "NT Event Log Events" under root\cimv2
+
+
+
+

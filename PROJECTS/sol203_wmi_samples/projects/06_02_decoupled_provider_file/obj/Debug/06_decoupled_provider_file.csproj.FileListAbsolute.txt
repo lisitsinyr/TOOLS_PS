@@ -1,0 +1,7 @@
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.pdb
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\obj\Debug\_07_decoupled_provider.Properties.Resources.resources
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\obj\Debug\06_decoupled_provider_file.csproj.GenerateResource.Cache
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\obj\Debug\07_decoupled_provider.exe
+C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\obj\Debug\07_decoupled_provider.pdb

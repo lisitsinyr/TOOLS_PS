@@ -1,0 +1,11 @@
+﻿
+            ManagementClass mc = new ManagementClass(@"\\.\root\bmf_StringProvider:BmfString");
+            foreach (ManagementObject mo in mc.GetInstances())
+            {
+                object value = mo.GetPropertyValue("Size");
+                
+            }
+
+            ManagementObject mo1 = new ManagementObject(@"\\.\root\bmf_StringProvider:BmfString.String='vasya pupkin'");
+            object value1 = mo1.GetPropertyValue("Size");
+

@@ -1,0 +1,220 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at C:\Users\i-maratb\Documents\presentations\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+An exception occurred during the Install phase.
+System.Management.Instrumentation.WmiProviderInstallationException: The class BmfFile and BmfString have the same name 
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at c:\2008_04_10_wmi_webcast\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\07_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.exe assembly's progress.
+The file is located at C:\Users\i-maratb\Presentations\_GLOBAL EVENTS\techdays 09 spring\DEVYYYWMI\projects\06_02_decoupled_provider_file\bin\Debug\07_decoupled_provider.InstallLog.
+
+The uninstall has completed.

@@ -18,10 +18,18 @@ doc/*.txt
 # ˆ£­®à¨à®¢ âì ¢á¥ .txt ä ©«ë ¢ ª â «®£¥ doc/
 doc/**/*.txt
 
-GIT_CONFIG
-
-out
-out/
-
-.vscode
+### VS Code ###
 .vscode/
+.vs/
+
+### ”€‰‹› ###
+/GIT_CONFIG*
+/PROJECTS_LYR*
+/config*
+*.log
+*.bat
+
+### Š€’€‹Žƒˆ ###
+LOGS/
+LOG/
+out/

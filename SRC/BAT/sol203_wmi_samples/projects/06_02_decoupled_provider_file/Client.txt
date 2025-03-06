@@ -1,4 +1,4 @@
-﻿
+
             ManagementClass mc = new ManagementClass(@"\\.\root\bmf_StringProvider:BmfString");
             foreach (ManagementObject mo in mc.GetInstances())
             {
